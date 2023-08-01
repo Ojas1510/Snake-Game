@@ -7,6 +7,7 @@ Use 'W', 'A', 'S', and 'D' keys to control the snake's movement:
 2. 'A' - Move Left <br>
 3. 'S' - Move Down <br>
 4. 'D' - Move Right <br>
+
 Try to eat the fruit ('X') that appears on the screen to increase your score. <br>
 
 The game will end if the snake collides with the boundary or itself.  <br>
