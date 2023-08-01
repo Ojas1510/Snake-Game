@@ -9,7 +9,7 @@ Use 'W', 'A', 'S', and 'D' keys to control the snake's movement:
 'D' - Move Right 
 Try to eat the fruit ('X') that appears on the screen to increase your score. 
 
-The game will end if the snake collides with the boundary or itself. \br 
+The game will end if the snake collides with the boundary or itself. /br
 # Instructions 
 Compile the C++ code using a C++ compiler
 Run the compiled executable (./snake_game ) 
